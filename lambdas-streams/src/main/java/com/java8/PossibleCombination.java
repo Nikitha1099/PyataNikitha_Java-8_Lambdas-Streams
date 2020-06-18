@@ -1,4 +1,4 @@
-package com.java;
+package com.java8;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -55,6 +55,7 @@ public class PossibleCombination {
         return subSet;
     }
 }
+
 
 
 
